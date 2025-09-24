@@ -1,6 +1,5 @@
 # OCR and Text Detection
 
-
 This project provides a complete pipeline for detecting, recognizing, and evaluating text in images. It uses the **EAST (Efficient and Accurate Scene Text)** deep learning model for high-accuracy text detection and the **Tesseract OCR engine** for recognizing the detected text.
 
 The system is designed to process images, draw bounding boxes around text, extract the text content, and evaluate the model's performance using standard computer vision metrics.
